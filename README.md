@@ -1,6 +1,6 @@
 # banana-navigator
 
-Reinforcement Learning agent trained to navigate and collect bananas using Policy Gradient methods
+Deep Reinforcement Learning agent trained to navigate and collect bananas using Policy Gradient methods
 
 ## Learning Algorithm
 REINFORCE (Monte-Carlo policy gradient) relies on an estimated return by Monte-Carlo methods by sampling episodes to update θ (policy).
